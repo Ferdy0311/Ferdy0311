@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ferdy0311
 - 👀 I’m interested in Software Engineering, Mobile Engineering, Cycling
-- 🌱 I’m currently learning Python, Micro Services
+- 🌱 I’m currently learning IOS Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/ferdy-kho-7ba986157/
 
